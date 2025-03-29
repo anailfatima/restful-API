@@ -1,5 +1,5 @@
 //storing the mongoose package in mongoose variable
-// mongoose allows us to connect with mongodb with javascript objects
+// mongoose allows us to connect mongodb with javascript objects
 const mongoose = require("mongoose");
 // after writing this run 'npm i mongoose' to import  mongoose
 
